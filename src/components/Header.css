@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 2rem;
+    font-family: 'Dancing Script', cursive;
+}
+.header img{
+    width: 10rem;
+}
+.header h1{
+    color: gold;
+}

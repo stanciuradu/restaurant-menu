@@ -1,0 +1,59 @@
+[
+    {
+        "image":"https://i.imgur.com/XIGF3LB.jpg",
+        "name":"American Pancakes",
+        "price":40,
+        "currency":"Lei",
+        "description":"Clatite americane traditionalae cu dulceata de zmeura"
+    },
+    {
+        "image":"https://i.imgur.com/DnjZhRd.jpg",
+        "name":"American Burger",
+        "price":30,
+        "currency":"Lei",
+        "description":"Burger american traditional cu sos de usturoi si cartofi"
+    },
+    {
+        "image":"https://i.imgur.com/Zqi2MpP.jpg",
+        "name":"Milkshake",
+        "price":25,
+        "currency":"Lei",
+        "description":"Milksake cu aromă de biscuiti de ciocolată"
+    },
+    {
+        "image":"https://i.imgur.com/dOzxmM8.jpg",
+        "name":"American Breakfast",
+        "price":30,
+        "currency":"Lei",
+        "description":"Mic-dejun american traditional"
+    },
+    {
+        "image":"https://i.imgur.com/Fd1FpXs.jpg",
+        "name":"Egg Burger",
+        "price":45,
+        "currency":"Lei",
+        "description":"Burger american traditional cu ou"
+    },
+    {
+        "image":"https://i.imgur.com/YxOk5HM.jpg",
+        "name":"Oreo dream cake",
+        "price":60,
+        "currency":"Lei",
+        "description":"Prajitură americană cu oreo și scorțișoară"
+    },
+    {
+        "image":"https://i.imgur.com/IaCXBKR.jpg",
+        "name":"Bacon Burger",
+        "price":60,
+        "currency":"Lei",
+        "description":"Burger american cu bacon"
+    },
+    {
+        "image":"https://i.imgur.com/vul0AA8.jpg",
+        "name":"Amercian classic dinner",
+        "price":100,
+        "currency":"Lei",
+        "description":"Cină clasică americană cu burger și clătite cu finetti"
+    }
+    
+]

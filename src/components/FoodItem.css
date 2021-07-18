@@ -1,0 +1,23 @@
+.price-food{
+    display: flex;
+    font-family: 'Dancing Script', cursive;
+    border-bottom: 1rem double black;
+    font-size: 1.2rem;
+}
+.image-foods{
+    display: flex;
+}
+.price-food p{
+   margin-top: 0.5rem;
+   margin-left: 4rem;
+}
+.description-food{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.2rem;
+}
+.col-6 img{
+    border: 0.2rem solid gold;
+    margin-bottom: 2rem;
+}
