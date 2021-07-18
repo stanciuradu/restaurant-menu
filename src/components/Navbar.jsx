@@ -3,7 +3,7 @@ import '../components/Navbar.css';
 
 function Navbar() {
     return (
-        <div className='navbar'>
+        <div className='container-navbar'>
             <button type='button'>All</button>
             <button type='button'>Breakfast</button>
             <button type='button'>Lunch</button>

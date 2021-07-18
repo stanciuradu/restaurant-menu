@@ -1,11 +1,12 @@
-.navbar{
+.container-navbar{
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin-top: 2rem;
+    margin-bottom: 3rem;
 }
-.navbar button{
+.container-navbar button{
     margin-right: 2rem;
     color:gold;
     font-size: 2rem;
@@ -13,9 +14,9 @@
     background-color: white;
     font-family: 'Dancing Script', cursive;
 }
-.navbar button:hover{
+.container-navbar button:hover{
     background-color: brown;
 }
-.navbar button:hover{
+.container-navbar button:hover{
     color: white;
 }
